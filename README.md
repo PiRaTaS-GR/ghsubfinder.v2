@@ -9,6 +9,7 @@
   just the "example.com" and the program will find the subdomains in this website.</p>
   
  # WHAT NEW DID I ADD TO THE VERSION 2
+ - I added the ability to detect whether the site uses a wildcard subdomain method to avoid unnecessary scans.
   
 <h1>SCREENSHOTS</h1>
 
