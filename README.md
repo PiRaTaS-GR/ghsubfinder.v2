@@ -10,6 +10,7 @@
   
  # WHAT NEW DID I ADD TO THE VERSION 2
  - I added the ability to detect whether the site uses a wildcard subdomain method to avoid unnecessary scans.
+ - Basically, I have set it to first scan the basic.txt file, where I have some random, uncommon words, so if it finds all of them, it indicates that the site uses a wildcard subdomain method.
   
 <h1>SCREENSHOTS</h1>
 
