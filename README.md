@@ -6,7 +6,7 @@
 <h1>GH SUBDOMAIN FINDER V2</h1>
 
 <p>Welcome to GH subdomain finder v2. Here you can type the domain you want to scan (e.x greekhacking.gr) but please without "www." or something else.
-  just the "example.com" and the program will find the subdomains in this website.</p>
+  just the "example.com" and the program will find the subdomains in this website.</p><p style="color:red">123</p>
   
 <h1>SCREENSHOTS</h1>
 
